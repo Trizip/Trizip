@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Trizip aka un alternant un peu flemmard mais qui aime l'informatique, particulièrement les imprimantes.
+- 👋 Hi, I’m @Trizip aka un alternant un peu flemmard mais qui aime l'informatique, particulièrement les imprimantes...
 
 <!---
 Trizip/Trizip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
